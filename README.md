@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+public link: https://playful-dusk-c57f30.netlify.app/
+
 <img width="1440" alt="Screen Shot 2022-08-08 at 12 30 51 PM" src="https://user-images.githubusercontent.com/49092639/183409053-887163f7-ef22-4cd7-a435-7190f3bb75a1.png">
 
 
